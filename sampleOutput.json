@@ -1,0 +1,59 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "iPhone in India: Apple makes new handset in India in shift from China",
+    "description": "The announcement marks the technology giant's latest move to diversify its supply chains outside China.",
+    "url": "https://www.bbc.co.uk/news/business-63043083",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11CC7/production/_126630927_apple-iphone-14-pro-iphone-14-pro-max-hero-220907.jpg",
+    "publishedAt": "2022-09-27T04:11:45Z",
+    "content": "By Monica MillerBBC News Apple says it has started making its iPhone 14 in India as it diversifies its supply chains away from China. The company makes most of its phones in China but has shifted s… [+1719 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": null,
+    "title": "England v India: Smriti Mandhana leads improved India to victory in first ODI",
+    "description": "Smriti Mandhana and Harmanpreet Kaur guide India to a comfortable seven-wicket win over England in the first one-day international.",
+    "url": "https://www.bbc.co.uk/sport/cricket/62946324",
+    "publishedAt": "2022-09-18T17:13:32Z",    
+    "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/0402/production/_126762010_gettyimages-1423418356.jpg",
+
+    "content": "<table> <tr><td>First one-day international, Hove</td></tr><tr><td>England 227-7 (50 overs): Davidson-Richards 50, Wyatt 43; Deepti 2-33</td></tr><tr><td>India 232-3 (44.2 overs): Mandhana 91, Harma… [+1379 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "Why south India outperforms the north",
+    "description": "What are the consequences of southern India outperforming the rest of the country?",
+    "url": "https://www.bbc.co.uk/news/world-asia-india-62951951",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/48B1/production/_126790681_doctors.jpg",
+    "publishedAt": "2022-09-20T23:22:55Z",
+    "content": "Data shows that southern Indian states outperform the rest of the country in health, education and economic opportunities. But what are the consequences of this phenomenon? Nilakantan R, a data scien… [+5882 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "Cheetah: World's fastest cat returns to India after 70 years",
+    "description": "A group of eight cats is due to arrive from Namibia on the occasion of PM Narendra Modi's birthday.",
+    "url": "https://www.bbc.co.uk/news/world-asia-india-62899981",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3249/production/_126737821_gettyimages-1061398546-594x594.jpg",
+    "publishedAt": "2022-09-16T23:26:26Z",
+    "content": "Cheetahs are set to roam in India for the first time since they were declared officially extinct in 1952. A group of eight cats will arrive from Namibia on the occasion of Prime Minister Narendra Mo… [+4095 chars]"
+    }
+  ]
+}
